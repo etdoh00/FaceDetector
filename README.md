@@ -1,4 +1,4 @@
-The folders needed for my code are :
+The folders needed are :
 images, 
 Preprocessing, 
 Test and Train Splits, 
@@ -9,7 +9,7 @@ SVM-KM,
 Detector, 
 Visualisation
 
-The files needed for my code are :
+The files needed are:
 FaceDetection_NN_KNN.m, 
 FaceDetection_NN_KNN_FeatureExtractors.m, 
 FaceDetection_SVM.m, 
